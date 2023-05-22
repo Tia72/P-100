@@ -1,0 +1,15 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: aqua;
+    color: rgb(255, 0, 0);
+}
+
+img:hower{
+    border-radius: 40px;
+    box-shadow: 0 6px 8px 0 rgba( 2, 2 , 2 , 0.2 );
+    width: fit-content;
+}
